@@ -1,7 +1,8 @@
 # Projecteuler.net (Problems Repo)
-Solved euler problems: 15 / 500
+Solved euler problems: 23 / 611
 
 To test them out:
 ```sh
-$ node problem[XX].js
+$ node problem-[XXX].js
+$ python problem-[XXX].py
 ```
